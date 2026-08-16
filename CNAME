@@ -1,1 +1,3 @@
-www.app-nice-cv-appcv-nice-elizeus.com
+Host: www
+Type: CNAME
+Value: yourusername.github.io.

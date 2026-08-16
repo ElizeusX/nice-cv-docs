@@ -1,1 +1,3 @@
-nicecv.app
+Host: www
+Type: CNAME
+Value: elizeusx.github.io.
